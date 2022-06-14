@@ -1,0 +1,12 @@
+﻿/*These will be used to overwrite some styles from the bootstrap*/
+.rightalign {
+    text-align: right;
+}
+.jmodify {
+    font-size: 10px;
+    font-style: italic;
+    color: mintcream;
+}
+.italicize {font-style: italic;}
+.bold {font-weight: bolder;}
+

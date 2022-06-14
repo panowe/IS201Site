@@ -1,0 +1,51 @@
+
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: center;
+	color: aliceblue;
+	background-image: linear-gradient( rgb(35 98 71 / 0.65), rgb(0 0 0 / 0.40)), url("../images/bgtab.jpg");
+	background-attachment: fixed;
+	background-size: cover;
+	background-position: center;
+}
+h1 {
+	margin: auto;
+	width: fit-content;
+	font-size: 52px;
+	padding: 5px;
+}
+a {
+	color: aliceblue;
+}
+a:hover {
+	color: rgb(240 248 255 / 0.55);
+}
+.subheader {
+	margin: 5px auto;
+	width: fit-content;
+	padding: 5px;
+	
+}
+.common {
+	border-radius: 10px;
+	background-color: rgb(255, 255, 255, 0.20);
+}
+.navigation {
+	top: 200px;
+	left: 75px;
+	right: 75px;
+	height: 100px;
+}
+.tableauresize {
+	margin: auto;
+	width: 80%;
+	height: 30%;
+	padding-left: 10%;
+	padding-right: 10%;
+}
+.footer {
+	bottom: 75px;
+	left: 75px;
+	right: 75px;
+	height: 100px;
+}
